@@ -8,13 +8,13 @@ Welcome to my portfolio website! This platform showcases my skills, projects, an
 
 Features
 
-About Me: A brief introduction highlighting my background, skills, and interests.
+Home: A brief introduction highlighting my background, skills, and interests.
 
-Projects: A showcase of my completed and ongoing projects, including descriptions, technologies used, and live/demo links.
+SDG FEATURED: A brief explanation of why I choose this SDG.
+
+Showcase: showcase of my completed and ongoing projects, including descriptions, technologies used, and live/demo links.
 
 Skills: A section listing my technical and creative skills.
-
-Resume: Downloadable or viewable version of my resume.
 
 Contact: A form or links to connect with me via email and social media platforms.
 
